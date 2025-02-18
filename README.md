@@ -15,4 +15,3 @@ This project was created with the primary goal of helping me learn React Native.
 
 Whether you're a quiz enthusiast or a developer looking to explore React Native, this app is a fun and educational project to get started with.
 
-<img src="https://user-images.githubusercontent.com/43019533/95948979-b5815a00-0dbf-11eb-9d4b-6447b7d89340.png" width=300/>
